@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Got it, working on changing the color to yellow.",
+        "message_id": "guest13082024194149",
+        "timestamp": "13082024194150",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the color to be yellow",
         "message_id": "guest13082024194149",
