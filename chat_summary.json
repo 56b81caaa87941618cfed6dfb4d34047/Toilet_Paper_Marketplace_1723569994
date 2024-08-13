@@ -30,5 +30,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have a specific shade of blue in mind for the background?\", \"option1\": \"Yes, I will provide the HEX code.\", \"option2\": \"No, a general blue theme is fine.\"}, {\"question 2\": \"Should the background change be applied universally across all pages or only on specific ones?\", \"option1\": \"Apply universally across all pages.\", \"option2\": \"Only on specific pages, which I will list.\"}], \"input_token_count\": 256, \"output_token_count\": 104, \"time_taken\": \"0:00:05.345711\"}",
         "timestamp": "13082024192250",
         "message_id": "guest13082024192244"
+    },
+    {
+        "role": "user",
+        "content": "change the background to be brown",
+        "timestamp": "13082024192633",
+        "message_id": "guest13082024192633"
     }
 ]
