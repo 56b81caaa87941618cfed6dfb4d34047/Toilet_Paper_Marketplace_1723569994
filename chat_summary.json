@@ -1,5 +1,23 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have a specific shade of dark red in mind for the background?\", \"option1\": \"Yes, I'll provide the hex code.\", \"option2\": \"No, a general dark red is fine.\"}, {\"question 2\": \"Should the background change be applied globally across the entire marketplace platform or only specific pages/sections?\", \"option1\": \"Apply globally to the entire platform.\", \"option2\": \"Only apply to specific pages/sections.\"}], \"input_token_count\": 323, \"output_token_count\": 107, \"time_taken\": \"0:00:04.025372\"}",
+        "message_id": "guest13082024192748",
+        "timestamp": "13082024192754",
+        "component_file_name": "purple_background_cta_component_1723569995",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Implement a color palette option for background customization\", \"checked\": true}, {\"feature\": \"Add a preview feature to see changes in real time\", \"checked\": true}, {\"feature\": \"Allow users to save their favorite background color for future visits\", \"checked\": false}, {\"feature\": \"Integrate a 'reset to default' button for background color\", \"checked\": false}], \"input_token_count\": 277, \"output_token_count\": 90, \"time_taken\": \"0:00:03.534604\"}",
+        "message_id": "guest13082024192748",
+        "timestamp": "13082024192753",
+        "component_file_name": "purple_background_cta_component_1723569995",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I will change the background to dark red.",
         "message_id": "guest13082024192748",
@@ -72,27 +90,9 @@
         "div_action": ""
     },
     {
-        "role": "chat_acknowledge",
-        "content": "I can change the background to be blue.",
-        "message_id": "guest13082024192244",
-        "timestamp": "13082024192244",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "Change the background to be blue",
-        "message_id": "guest13082024192244",
-        "timestamp": "13082024192244",
-        "component_file_name": "purple_background_cta_component_1723569995",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "summary",
-        "content": "Can you describe the project a bit more?",
-        "timestamp": "13082024192748",
+        "content": "In the conversation, the user requested the AI to change the background to blue. The AI acknowledged the message and then asked the user to provide more details about the project.",
+        "timestamp": "13082024192754",
         "message_id": "guest13082024192748"
     }
 ]
