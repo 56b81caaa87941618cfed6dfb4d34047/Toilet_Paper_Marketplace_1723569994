@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"For the yellow mixed with brown background, do you have a specific shade in mind or would you like us to propose options?\", \"option1\": \"I have a specific shade in mind.\", \"option2\": \"Please propose options.\"}, {\"question 2\": \"Should this new color scheme be applied globally across the entire platform, or are there specific sections where you'd like to see this change?\", \"option1\": \"Apply globally.\", \"option2\": \"Apply to specific sections only.\"}], \"input_token_count\": 584, \"output_token_count\": 113, \"time_taken\": \"0:00:02.440098\"}",
+        "message_id": "guest13082024194533",
+        "timestamp": "13082024194537",
+        "component_file_name": "purple_background_cta_component_1723569995",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Acknowledged, working on changing the color to yellow-brown mix.",
         "message_id": "guest13082024194533",
