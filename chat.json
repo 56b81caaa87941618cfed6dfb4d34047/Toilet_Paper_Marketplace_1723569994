@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the entire website background to be changed to brown, or just specific sections?\", \"option1\": \"Change the entire website background to brown\", \"option2\": \"Change only specific sections to brown\"}, {\"question 2\": \"What shade of brown do you prefer for the background?\", \"option1\": \"Light brown for a softer look\", \"option2\": \"Dark brown for a more robust appearance\"}], \"input_token_count\": 256, \"output_token_count\": 99, \"time_taken\": \"0:00:03.676194\"}",
+        "message_id": "guest13082024192633",
+        "timestamp": "13082024192638",
+        "component_file_name": "purple_background_cta_component_1723569995",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "I am working on changing the background to brown.",
         "message_id": "guest13082024192633",
