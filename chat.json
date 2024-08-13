@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "Change the background to be blue",
+        "message_id": "guest13082024192244",
+        "timestamp": "13082024192244",
+        "component_file_name": "purple_background_cta_component_1723569995",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "makeinfinite",
         "content": "Can you describe the project a bit more?",
         "message_id": "project_init",
